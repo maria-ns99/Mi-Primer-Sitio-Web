@@ -1,0 +1,31 @@
+/* Comentario */
+body {
+background-color: wheat;
+font-family: "Bodoni Moda", serif;
+font-size: 16px;
+}
+.libros1{
+    width: 500px;
+    height: 500px;
+    border-radius: 40px;
+    border: dotted;
+}
+.libros2{
+    width: 600px;
+    height: 400px;
+    border-radius: 40px;
+    opacity: .5;
+    border: double;
+}
+h2 {text-align: center;
+
+}
+.protagonistas {
+    background-image: url("https://www.planetadelibros.com/usuaris/blog_entrada/detalle/thumbs/76860147-e6a3-465d-82aa-c7f2c6b42586/m_546_420_crop/792_article_img_1683210486.webp");
+font-size: 20px;
+color: blueviolet;
+background-color: rgba(0, 0, 0, 1);
+}
+.imagenes1 {
+text-align: center;
+}
